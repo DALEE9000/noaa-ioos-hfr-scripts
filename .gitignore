@@ -1,0 +1,6 @@
+# Ignore NetCDF files
+*.nc
+*.nc4
+
+# Ignore video files
+*.mp4
